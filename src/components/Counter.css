@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    }
+
+.counter{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50px;
+    background-color:  aqua;
+}
+.container3{
+    display: flex;
+    justify-content: space-between;
+}

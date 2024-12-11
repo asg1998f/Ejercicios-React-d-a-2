@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  }
+  
+  .titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(42, 110, 144);
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    width: 700px;
+  }
+
+  .container{
+    background-color: rgb(42, 110, 144);
+    height: 500px;
+    opacity: 75%;
+  }
+
+  .container2{
+    height: 100px;
+    background: linear-gradient(rgb(0, 166, 255),rgb(255, 255, 255));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
